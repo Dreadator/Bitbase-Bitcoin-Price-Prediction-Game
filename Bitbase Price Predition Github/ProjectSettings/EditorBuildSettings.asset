@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/_Scenes/MenuScene.unity
+    guid: ac881313a352f4b02880f8fa752e6657
+  - enabled: 0
+    path: Assets/_Scenes/GameScene.unity
+    guid: 69e89b2a452f24d549ff69bdcf1b9ae3
+  - enabled: 1
+    path: Assets/_Scenes/BitcoinPricePrediction.unity
+    guid: 8aa0f77cbe1f4456bab584a1083e1221
+  m_configObjects: {}
